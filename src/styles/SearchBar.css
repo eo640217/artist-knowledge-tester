@@ -1,0 +1,7 @@
+.searchbox-container {
+  height: max-content;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  outline: red solid 1px;
+}
